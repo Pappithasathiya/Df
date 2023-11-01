@@ -114,7 +114,7 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>I'm a cyber security expert and technology enthusiast who is passionate about helping organizations protect their data and create secure online environments. I'm driven by the desire to put technology to work for the greater good and empower individuals and businesses to benefit from the digital revolution. With over 7 years of experience in the field, I'm dedicated to staying up to date with the latest trends and innovations in the cyber security landscape. I'm also committed to helping others learn more about the importance of online security and how to stay safe online..</p>
+            <p>I'm a cyber ore about the importance of online security and how to stay safe online..</p>
         </div>
     </section>
 
@@ -152,7 +152,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a hrefhttps://docs.google.com/document/d/1eBm2pYSs4_ezwWiwO_pst3IY6UMPQvk5/edit?usp=drivesdk&ouid=113243941599456550524&rtpof=true&sd=true</a>
+            <a https://docs.google.com/document/d/1eBm2pYSs4_ezwWiwO_pst3IY6UMPQvk5/edit?usp=drivesdk&ouid=113243941599456550524&rtpof=true&sd=true>
         </center>
         </div>
         
